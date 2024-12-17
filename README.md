@@ -1,6 +1,7 @@
 # Retail Store Sales Analysis
 
 ### Project Overview
+---
 
 This data analysis project analyzes sales and customer behavior data from a superstore to derive insights that can drive business strategies. The primary objective of this analysis is to extract actionable insights from the superstore’s operational data. This will help in identifying trends, improving decision-making, and optimizing business performance.
 
