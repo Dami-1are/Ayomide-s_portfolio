@@ -9,11 +9,13 @@ This data analysis project analyzes sales and customer behavior data from a supe
 - Evaluate customer purchasing behavior.
 - Identify operational bottlenecks.
 
+[Damilare Superstore.xlsx](https://github.com/user-attachments/files/18165418/Damilare.Superstore.xlsx)
+
+
 ### Tools
 - Excel - Data Cleaning
 - Excel - Data Analysis
 - Excel - Creating Reports/Visualization
-
 
 ### Data Cleaning/Preparation
 
